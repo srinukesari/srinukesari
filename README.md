@@ -71,14 +71,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinukesari&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinukesari&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
 _“Code. Build. Learn. Repeat.”_
 
 ⚡ *"Building things fast is fun, but building them right is an art I love mastering."*
